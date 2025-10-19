@@ -24,7 +24,7 @@ img {
 }
 a {
     text-decoration: none;
-    color: blue;
+    color: #333fff;
 }
 a:visited {
     color: Purple;
@@ -48,4 +48,5 @@ p {
 li {
     margin-bottom: 20px !important;
 }
+
 
